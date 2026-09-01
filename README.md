@@ -2,6 +2,14 @@
 
 自动化称重系统相关 3D 打印文件，包含打印模型、切片文件，以及少量 STEP 交换格式。
 
+## 本地目录对应关系
+
+- 本仓库对应本地目录：`F:\SW\3D`
+
+## 更新说明
+
+- 更新修改了旧版文件，将文件名中的 `ZhouChulin` 和 `ZhouChunlin` 统一替换为 `Du`。
+
 ## 文件类型
 
 | 格式 | 说明 |
@@ -21,13 +29,13 @@
 **盖板与连接件**
 
 - `gaiban1.3mf` / `盖板Duzhaoyang.3MF` / `盖板Duzhaoyang2.3mf` — 盖板
-- `底板连接件ZhouChunlin.3mf` / `2.底板连接件ZhouChunlin.3mf` / `3.底板连接件ZhouChunlin.3mf` — 底板连接件
+- `底板连接件Du.3mf` / `2.底板连接件Du.3mf` / `3.底板连接件Du.3mf` — 底板连接件
 - `45°直角支架.3mf` / `直角架4.3mf` — 支架
 
 **螺旋落料**
 
 - `luoxuan80.3MF` / `luoxuan90mm1.3mf` / `luoxuan90mm2.3mf` — 螺旋
-- `可拆卸式螺旋4ZhouChulin.3mf` / `可拆卸式螺旋4ZhouChulin.STL` — 可拆卸式螺旋
+- `可拆卸式螺旋4Du.3mf` / `可拆卸式螺旋4Du.STL` — 可拆卸式螺旋
 
 **机械臂与其他**
 
